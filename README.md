@@ -36,7 +36,7 @@ Had some issues pushing the project to GitHub. There were also some issues with 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Joshua Wagas
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
